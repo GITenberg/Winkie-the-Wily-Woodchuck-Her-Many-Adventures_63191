@@ -1,5 +1,5 @@
 _repo: Winkie-the-Wily-Woodchuck-Her-Many-Adventures_63191
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rogers, Walter S.
@@ -7,12 +7,17 @@ contributor:
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
     wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+covers:
+- cover_type: archival
+  image_path: 63191-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Richard
     gutenberg_agent_id: '3820'
     url: http://www.gutenberg.org/2009/agents/3820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63191#Winkie-the-Wily-Woodchuck-Her-Many-Adventures
 gutenberg_issued: '2020-09-13'
 gutenberg_type: Text
 identifiers:
